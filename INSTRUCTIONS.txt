@@ -1,0 +1,29 @@
+
+_______________________________________________________
+How to make a playlist of your all time favourite songs
+_______________________________________________________
+
+Pre-requisites - you must have python3 installed on your computer for this to work.
+
+
+Step 1 - Copy the desired data from last.fm as shown in the video titled "copyPaste.mp4".
+
+Step 2 - Paste this data into "copyPasteFromLastFM.txt", and press save.
+(See "extrainfo.txt" if you are still confused with copying)
+
+Step 2 - Open terminal, and type "cd". Then drag the folder "countdown-playlist" onto the terminal window. Then press enter.
+
+Step 3 - If you want your playlist to countDOWN from the least played song to the most played song:
+          type "python3 converter.py down", then press enter.
+If you want your playlist to countUP from most played song to least played song:
+          type "python3 converter.py up", then press enter.
+
+Step 4 - Open this link : https://www.tunemymusic.com/Text-File-to-Spotify.php#step1
+
+Step 5 - On the website, press "Let's start", then "upload file" and choose "outputfile.txt"
+
+Step 6 - Press "select destination".
+
+Step 7 - Choose your desired music platform, then press "start moving my music" to create your playlist.
+
+The playlist will pop up as your most recent playlist in whatever music platform you chose.
