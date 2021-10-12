@@ -1,7 +1,7 @@
 
-_______________________________________________________
-How to make a playlist of your all time favourite songs
-_______________________________________________________
+_____________________________________________________________________
+How to make a playlist of your all time favourite songs using last.fm
+_____________________________________________________________________
 
 Pre-requisites - you must have python3 installed on your computer for this to work.
 
