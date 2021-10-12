@@ -1,0 +1,16 @@
+
+You can only copy data from a song countdown list.
+
+Copying albums will not work.
+
+The first video, "copyPaste.mp4" will generate a playlist with the 10 selected songs.
+
+When copying, hold the cursor just to the left of the first desired songs rank,
+and drag the cursor just to the right of the last desired songs play count.
+
+"extraCopyPaste.mp4" has additional examples of how you can copy songs.
+The first example of copying will generate a playlist with the 8 selected songs
+
+The second example of copying will generate a playlist with the top 50 songs.
+If you'd like to generate a top 100 playlist, you can copy and paste the top 50 songs to the "copyPasteFromLastFM.txt",
+then go to the next page on last.fm, copy and paste those 50 songs to the file too, save and continue from step 3.

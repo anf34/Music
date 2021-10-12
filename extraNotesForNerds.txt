@@ -1,0 +1,7 @@
+
+Notes:
+
+The secondfile.txt is purely for maintenance.
+
+My code can currently not account for when a song title has the word "track" in it.
+I'm working on fixing that.
